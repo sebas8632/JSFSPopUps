@@ -19,13 +19,15 @@ public enum ErrorType {
     case error
     
     public func getImage() -> UIImage {
+        let bundle = Bundle(identifier: "juanflorezpersonal.JSFSPopUps")
+
         switch self {
         case .info:
-            return UIImage(named: "error")!
+            return UIImage(named: "error", in: bundle, with: nil) ?? UIImage()
         case .warning:
-            return UIImage(named: "error")!
+            return UIImage(named: "error", in: bundle, with: nil) ?? UIImage()
         case .error:
-            return UIImage(named: "error")!
+            return UIImage(named: "error", in: bundle, with: nil) ?? UIImage()
         }
     }
     
