@@ -44,7 +44,7 @@ public class PopUpMessageView: UIView {
     
     private func superViewConstraint(margins: UILayoutGuide) {
         NSLayoutConstraint.activate([
-            mainView.topAnchor.constraint(equalTo: margins.topAnchor, constant: 0),
+            mainView.topAnchor.constraint(equalTo: topAnchor, constant: 0),
             mainView.bottomAnchor.constraint(equalTo: bottomAnchor, constant: 0),
             mainView.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 0),
             mainView.trailingAnchor.constraint(equalTo: trailingAnchor, constant: 0)
