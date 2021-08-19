@@ -1,0 +1,634 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.2)
+/Users/juan_florez/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk
+iPhoneOS14.0.sdk
+/Users/juan_florez/Library/Developer/Xcode/DerivedData/JSFSPopUps-fwlnvadiarnsdnabkrjevyiauqze/Build/Intermediates.noindex/ArchiveIntermediates/JSFSPopUps/IntermediateBuildFilesPath/JSFSPopUps.build/Debug-iphoneos/JSFSPopUps.build/DerivedSources/JSFSPopUps_vers.c
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps
+_$sSo16UIViewControllerCABycfC
+_$sSo16UIViewControllerCABycfcTO
+__swift_FORCE_LOAD_$_swiftCompatibility51
+__METACLASS_DATA__TtC10JSFSPopUps12PopUpManager
+__DATA__TtC10JSFSPopUps12PopUpManager
+_$s10JSFSPopUpsMXM
+_$s10JSFSPopUps12PopUpManagerCMf
+_symbolic _____ 10JSFSPopUps12PopUpManagerC
+_$s10JSFSPopUps12PopUpManagerCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftDarwin_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftFoundation_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftDispatch_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftCoreImage_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftMetal_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_JSFSPopUps
+__swift_FORCE_LOAD_$_swiftCompatibility51_$_JSFSPopUps
+___swift_reflection_version
+_objc_classes
+Apple clang version 12.0.0 (clang-1200.0.30.1)
+<swift-imported-modules>
+Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps/JSFSPopUps/PopUp/PopUpManager.swift
+$s10JSFSPopUps12PopUpManagerCMa
+<compiler-generated>
+init
+deinit
+showError
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvg
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvs
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvM
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC022$__lazy_storage_$_mainF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC025$__lazy_storage_$_contentF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC23$__lazy_storage_$_title33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC25$__lazy_storage_$_message33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC023$__lazy_storage_$_imageF033_231B6C107F389C0A253EC86CDAB8A844LLSo07UIImageF0CSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC31$__lazy_storage_$_dismissButton33_231B6C107F389C0A253EC86CDAB8A844LLSo8UIButtonCSgvpfi
+_$s10JSFSPopUps16PopUpMessageViewC5coderACSgSo7NSCoderC_tcfcTo
+_$s10JSFSPopUps16PopUpMessageViewC05setupF033_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC16setupConstraints33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC05superF10Constraint33_231B6C107F389C0A253EC86CDAB8A844LL7marginsySo13UILayoutGuideC_tF
+_$s10JSFSPopUps16PopUpMessageViewC07contentF10Constraint33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC15imageConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC15titleConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC17messageConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC16buttonConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyF
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvg
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvgAFyXEfU_
+_$sSo6UIViewCABycfC
+_$sSo6UIViewCABycfcTO
+_$sSo7UIColorC3red5green4blue5alphaAB12CoreGraphics7CGFloatV_A3ItcfC
+_$sSo7UIColorC3red5green4blue5alphaAB12CoreGraphics7CGFloatV_A3ItcfcTO
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvs
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvM
+_$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvg
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvgAFyXEfU_
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvs
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvM
+_$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvg
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvgAFyXEfU_
+_$sSo7UILabelCABycfC
+_$sSo7UILabelCABycfcTO
+_$sSo6UIFontC4name4sizeABSgSS_12CoreGraphics7CGFloatVtcfCTO
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvs
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvM
+_$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvg
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvgAFyXEfU_
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvs
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvM
+_$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0Cvg
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvgAFyXEfU_
+_$sSo11UIImageViewCABycfC
+_$sSo11UIImageViewCABycfcTO
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0Cvs
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvM
+_$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvpACTK
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvpACTk
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvg
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvgAFyXEfU_
+_$sSo8UIButtonCABycfC
+_$sSo8UIButtonCABycfcTO
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvs
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvM
+_$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvM.resume.0
+_$s10JSFSPopUps16PopUpMessageViewCfETo
+_$s10JSFSPopUps16PopUpMessageViewC5frameACSo6CGRectV_tcfcTo
+_$s12CoreGraphics7CGFloatVyACxcSzRzlufC
+_$sS2iSzsWl
+_$s10JSFSPopUps17PopUpMessageModelVSgWOe
+_$s10JSFSPopUps16PopUpMessageViewCSo6UIViewCIetMAgYl_TC
+_$s10JSFSPopUps16PopUpMessageViewCSo7UILabelCIetMAgYl_TC
+_$s10JSFSPopUps16PopUpMessageViewCSo07UIImageF0CIetMAgYl_TC
+_$s10JSFSPopUps16PopUpMessageViewCSo8UIButtonCIetMAgYl_TC
+_$s10JSFSPopUps17PopUpMessageModelVSgWOh
+_$sSo6UIViewCSgWOh
+_$sSo7UILabelCSgWOh
+_$sSo11UIImageViewCSgWOh
+_$sSo8UIButtonCSgWOh
+_$ss12StaticStringV14withUTF8BufferyxxSRys5UInt8VGXElFyAEcfU_
+_$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_
+_$ss12StaticStringV14withUTF8BufferyxxSRys5UInt8VGXElFyAEcfU_TA
+_$ss6UInt32VABs17FixedWidthIntegersWl
+_$ss6UInt32VABSUsWl
+_$sS2uSzsWl
+_$sSo18NSLayoutConstraintCMa
+_$s10JSFSPopUps16PopUpMessageViewCAA0cdE5ModelVSgIetMAgYl_TC
+_$s10JSFSPopUps17PopUpMessageModelVSgWOy
+_$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_yAMXEfU_
+_$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_yAMXEfU_yAMXEfU_
+_$sSo8UIButtonCMa
+_$sSo11UIImageViewCMa
+_$sSo7UILabelCMa
+_$sSo6UIFontCMa
+_$sSo6UIViewCMa
+_$sSo7UIColorCMa
+_$sS2dSBsWl
+_$ss6UInt64VABs17FixedWidthIntegersWl
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC022$__lazy_storage_$_mainF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC025$__lazy_storage_$_contentF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC23$__lazy_storage_$_title33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC25$__lazy_storage_$_message33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC023$__lazy_storage_$_imageF033_231B6C107F389C0A253EC86CDAB8A844LLSo07UIImageF0CSgvpWvd
+_$s10JSFSPopUps16PopUpMessageViewC31$__lazy_storage_$_dismissButton33_231B6C107F389C0A253EC86CDAB8A844LLSo8UIButtonCSgvpWvd
+_$sS2iSzsWL
+_symbolic _____ s6UInt64V
+_symbolic Si
+_symbolic _____z_Xx s6UInt64V
+_symbolic Siz_Xx
+_$ss6UInt32VABs17FixedWidthIntegersWL
+_$ss6UInt32VABSUsWL
+_$sS2uSzsWL
+__METACLASS_DATA__TtC10JSFSPopUps16PopUpMessageView
+__INSTANCE_METHODS__TtC10JSFSPopUps16PopUpMessageView
+__IVARS__TtC10JSFSPopUps16PopUpMessageView
+__DATA__TtC10JSFSPopUps16PopUpMessageView
+_symbolic So6UIViewC
+_$s10JSFSPopUps16PopUpMessageViewCMf
+_symbolic _____ 10JSFSPopUps16PopUpMessageViewC
+_symbolic _____Sg 10JSFSPopUps17PopUpMessageModelV
+_symbolic So6UIViewCSg
+_symbolic So7UILabelCSg
+_symbolic So11UIImageViewCSg
+_symbolic So8UIButtonCSg
+_$s10JSFSPopUps16PopUpMessageViewCMF
+_$sSo18NSLayoutConstraintCML
+_$sSo8UIButtonCML
+_$sSo11UIImageViewCML
+_$sSo7UILabelCML
+_$sSo6UIFontCML
+_$sSo6UIViewCML
+_$sSo7UIColorCML
+_$sS2dSBsWL
+_$ss6UInt64VABs17FixedWidthIntegersWL
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvgTq
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvsTq
+_$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvMTq
+_$s10JSFSPopUps16PopUpMessageViewC05setupF033_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC16setupConstraints33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC05superF10Constraint33_231B6C107F389C0A253EC86CDAB8A844LL7marginsySo13UILayoutGuideC_tFTq
+_$s10JSFSPopUps16PopUpMessageViewC07contentF10Constraint33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC15imageConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC15titleConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC17messageConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+_$s10JSFSPopUps16PopUpMessageViewC16buttonConstraint33_231B6C107F389C0A253EC86CDAB8A844LLyyFTq
+-private-discriminator _231B6C107F389C0A253EC86CDAB8A844
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps/JSFSPopUps/PopUp/PopUpMessageView.swift
+$ss6UInt64VABs17FixedWidthIntegersWl
+$sS2dSBsWl
+$sSo7UIColorCMa
+$sSo6UIViewCMa
+$sSo6UIFontCMa
+$sSo7UILabelCMa
+$sSo11UIImageViewCMa
+$sSo8UIButtonCMa
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_yAMXEfU_yAMXEfU_
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_yAMXEfU_
+$sSo18NSLayoutConstraintCMa
+$sS2uSzsWl
+$ss6UInt32VABSUsWl
+$ss6UInt32VABs17FixedWidthIntegersWl
+$ss12StaticStringV14withUTF8BufferyxxSRys5UInt8VGXElFyAEcfU_TA
+objectdestroy.3
+objectdestroy
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU_
+$ss12StaticStringV14withUTF8BufferyxxSRys5UInt8VGXElFyAEcfU_
+Swift runtime failure: arithmetic overflow
+$sSo8UIButtonCSgWOh
+$sSo11UIImageViewCSgWOh
+$sSo7UILabelCSgWOh
+$sSo6UIViewCSgWOh
+$s10JSFSPopUps17PopUpMessageModelVSgWOh
+$s10JSFSPopUps16PopUpMessageViewCMa
+$sS2iSzsWl
+$s12CoreGraphics7CGFloatVyACxcSzRzlufC
+dismissButton.modify
+dismissButton.set
+$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvgAFyXEfU_
+dismissButton.get
+$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvpACTk
+$s10JSFSPopUps16PopUpMessageViewC13dismissButtonSo8UIButtonCvpACTK
+imageView.modify
+imageView.set
+$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvgAFyXEfU_
+imageView.get
+$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvpACTk
+$s10JSFSPopUps16PopUpMessageViewC05imageF0So07UIImageF0CvpACTK
+message.modify
+message.set
+$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvgAFyXEfU_
+message.get
+$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvpACTk
+$s10JSFSPopUps16PopUpMessageViewC7messageSo7UILabelCvpACTK
+title.modify
+title.set
+$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvgAFyXEfU_
+title.get
+$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvpACTk
+$s10JSFSPopUps16PopUpMessageViewC5titleSo7UILabelCvpACTK
+contentView.modify
+contentView.set
+$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvgAFyXEfU_
+contentView.get
+$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvpACTk
+$s10JSFSPopUps16PopUpMessageViewC07contentF0So6UIViewCvpACTK
+mainView.modify
+mainView.set
+$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvgAFyXEfU_
+mainView.get
+$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvpACTk
+$s10JSFSPopUps16PopUpMessageViewC04mainF0So6UIViewCvpACTK
+buttonConstraint
+messageConstraint
+titleConstraint
+imageConstraint
+contentViewConstraint
+superViewConstraint
+setupConstraints
+setupView
+$s10JSFSPopUps16PopUpMessageViewC31$__lazy_storage_$_dismissButton33_231B6C107F389C0A253EC86CDAB8A844LLSo8UIButtonCSgvpfi
+$s10JSFSPopUps16PopUpMessageViewC023$__lazy_storage_$_imageF033_231B6C107F389C0A253EC86CDAB8A844LLSo07UIImageF0CSgvpfi
+$s10JSFSPopUps16PopUpMessageViewC25$__lazy_storage_$_message33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpfi
+$s10JSFSPopUps16PopUpMessageViewC23$__lazy_storage_$_title33_231B6C107F389C0A253EC86CDAB8A844LLSo7UILabelCSgvpfi
+$s10JSFSPopUps16PopUpMessageViewC025$__lazy_storage_$_contentF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpfi
+$s10JSFSPopUps16PopUpMessageViewC022$__lazy_storage_$_mainF033_231B6C107F389C0A253EC86CDAB8A844LLSo6UIViewCSgvpfi
+popUpMessage.modify
+popUpMessage.set
+popUpMessage.get
+$s10JSFSPopUps16PopUpMessageViewC03popdE033_231B6C107F389C0A253EC86CDAB8A844LLAA0cdE5ModelVSgvpfi
+_$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpfi
+_$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpACTK
+_$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpACTk
+_$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvM.resume.0
+_$s10JSFSPopUps26PopUpMessageViewControllerCAA0cdE5ModelVSgIetMAgYl_TC
+_$s10JSFSPopUps26PopUpMessageViewControllerC11viewDidLoadyyFTo
+_$s10JSFSPopUps26PopUpMessageViewControllerC14viewWillAppearyySbFTo
+_$s10JSFSPopUps26PopUpMessageViewControllerC17viewWillDisappearyySbFTo
+_$s10JSFSPopUps26PopUpMessageViewControllerC04loadF0yyFTo
+_$s10JSFSPopUps26PopUpMessageViewControllerC16tapDismissButton33_8F3C5252367AA66D9C44A8E90822FE1ELLyyFyycfU_
+_$s10JSFSPopUps26PopUpMessageViewControllerC16tapDismissButton33_8F3C5252367AA66D9C44A8E90822FE1ELLyyFTo
+_$s10JSFSPopUps26PopUpMessageViewControllerCfETo
+_$s10JSFSPopUps26PopUpMessageViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo
+_$s10JSFSPopUps26PopUpMessageViewControllerC5coderACSgSo7NSCoderC_tcfcTo
+_$s10JSFSPopUps17PopUpMessageModelVSgWOc
+__METACLASS_DATA__TtC10JSFSPopUps26PopUpMessageViewController
+__INSTANCE_METHODS__TtC10JSFSPopUps26PopUpMessageViewController
+__IVARS__TtC10JSFSPopUps26PopUpMessageViewController
+__DATA__TtC10JSFSPopUps26PopUpMessageViewController
+_symbolic So16UIViewControllerC
+_$s10JSFSPopUps26PopUpMessageViewControllerCMf
+_symbolic _____ 10JSFSPopUps26PopUpMessageViewControllerC
+_$s10JSFSPopUps26PopUpMessageViewControllerCMF
+_$s10JSFSPopUps26PopUpMessageViewControllerC12setupTargets33_8F3C5252367AA66D9C44A8E90822FE1ELLyyFTq
+_$s10JSFSPopUps26PopUpMessageViewControllerC16tapDismissButton33_8F3C5252367AA66D9C44A8E90822FE1ELLyyFTq
+-private-discriminator _8F3C5252367AA66D9C44A8E90822FE1E
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps/JSFSPopUps/PopUp/PopUpMessageViewController.swift
+$s10JSFSPopUps17PopUpMessageModelVSgWOc
+tapDismissButton
+$s10JSFSPopUps26PopUpMessageViewControllerC16tapDismissButton33_8F3C5252367AA66D9C44A8E90822FE1ELLyyFyycfU_
+setupTargets
+loadView
+viewWillDisappear
+viewWillAppear
+viewDidLoad
+$s10JSFSPopUps26PopUpMessageViewControllerCMa
+popUpView.get
+popUp.modify
+popUp.set
+popUp.get
+$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpACTk
+$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpACTK
+$s10JSFSPopUps26PopUpMessageViewControllerC03popD0AA0cdE5ModelVSgvpfi
+_$s10JSFSPopUps14PopUpAnimationC11showAnimate03popD4ViewySo16UIViewControllerC_tFZyycfU_
+_$s10JSFSPopUps14PopUpAnimationC11showAnimate03popD4ViewySo16UIViewControllerC_tFZyycfU_TA
+_$sIeg_IeyB_TR
+_block_copy_helper
+_block_destroy_helper
+_$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZyycfU_
+_$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZyycfU_TA
+_block_copy_helper.4
+_block_destroy_helper.5
+_$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZySbcfU0_
+_$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZySbcfU0_TA
+_$sSbIegy_SbIeyBy_TR
+_block_copy_helper.10
+_block_destroy_helper.11
+_block_descriptor
+_block_descriptor.6
+_symbolic Ieg_
+_block_descriptor.12
+__METACLASS_DATA__TtC10JSFSPopUps14PopUpAnimation
+__DATA__TtC10JSFSPopUps14PopUpAnimation
+_$s10JSFSPopUps14PopUpAnimationCMf
+_symbolic _____ 10JSFSPopUps14PopUpAnimationC
+_$s10JSFSPopUps14PopUpAnimationCMF
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps/JSFSPopUps/PopUp/PopUpAnimation.swift
+$s10JSFSPopUps14PopUpAnimationCMa
+showPopUp
+block_destroy_helper.11
+block_copy_helper.10
+$sSbIegy_SbIeyBy_TR
+$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZySbcfU0_TA
+objectdestroy.8
+$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZySbcfU0_
+block_destroy_helper.5
+block_copy_helper.4
+$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZyycfU_TA
+objectdestroy.2
+$s10JSFSPopUps14PopUpAnimationC13removeAnimate9childView6actionySo16UIViewControllerC_yyctFZyycfU_
+removeAnimate
+block_destroy_helper
+block_copy_helper
+$sIeg_IeyB_TR
+$s10JSFSPopUps14PopUpAnimationC11showAnimate03popD4ViewySo16UIViewControllerC_tFZyycfU_TA
+$s10JSFSPopUps14PopUpAnimationC11showAnimate03popD4ViewySo16UIViewControllerC_tFZyycfU_
+showAnimate
+_$s10JSFSPopUps17PopUpMessageModelV5titleSSvM.resume.0
+_$s10JSFSPopUps17PopUpMessageModelVSSIetMAlYl_TC
+_$s10JSFSPopUps17PopUpMessageModelV11descriptionSSvM.resume.0
+_$s10JSFSPopUps17PopUpMessageModelV9errorTypeAA05ErrorH0OvM.resume.0
+_$s10JSFSPopUps17PopUpMessageModelVAA9ErrorTypeOIetMAlYl_TC
+_$sSo8NSBundleCMa
+_$sSo8NSBundleC10identifierABSgSS_tcfCTO
+_$sSo7UIImageCMa
+_$sSo7UIImageC5named2in4withABSgSS_So8NSBundleCSgSo0A13ConfigurationCSgtcfCTO
+_$sSo7UIImageCABycfC
+_$sSo7UIImageCABycfcTO
+_$s10JSFSPopUps9ErrorTypeOACSHAAWl
+_$s10JSFSPopUps9ErrorTypeOSQAASQ2eeoiySbx_xtFZTW
+_$s10JSFSPopUps9ErrorTypeOSHAASQWb
+_$s10JSFSPopUps9ErrorTypeOACSQAAWl
+_$s10JSFSPopUps9ErrorTypeOSHAASH9hashValueSivgTW
+_$s10JSFSPopUps9ErrorTypeOSHAASH4hash4intoys6HasherVz_tFTW
+_$s10JSFSPopUps9ErrorTypeOSHAASH13_rawHashValue4seedS2i_tFTW
+_$s10JSFSPopUps17PopUpMessageModelVwCP
+_$s10JSFSPopUps17PopUpMessageModelVwxx
+_$s10JSFSPopUps17PopUpMessageModelVwcp
+_$s10JSFSPopUps17PopUpMessageModelVwca
+___swift_memcpy33_8
+_$s10JSFSPopUps17PopUpMessageModelVwta
+_$s10JSFSPopUps17PopUpMessageModelVwet
+_$s10JSFSPopUps17PopUpMessageModelVwst
+___swift_memcpy1_1
+___swift_noop_void_return
+_$s10JSFSPopUps9ErrorTypeOwet
+_$s10JSFSPopUps9ErrorTypeOwst
+_$s10JSFSPopUps9ErrorTypeOwug
+_$s10JSFSPopUps9ErrorTypeOwup
+_$s10JSFSPopUps9ErrorTypeOwui
+_$sSo8NSBundleCML
+_$sSo7UIImageCML
+_$s10JSFSPopUps9ErrorTypeOACSHAAWL
+_$s10JSFSPopUps9ErrorTypeOACSQAAWL
+_associated conformance 10JSFSPopUps9ErrorTypeOSHAASQ
+_$s10JSFSPopUps17PopUpMessageModelVWV
+_$s10JSFSPopUps17PopUpMessageModelVMf
+_symbolic _____ 10JSFSPopUps17PopUpMessageModelV
+_symbolic SS
+_symbolic _____ 10JSFSPopUps9ErrorTypeO
+_$s10JSFSPopUps17PopUpMessageModelVMF
+_$s10JSFSPopUps9ErrorTypeOWV
+_$s10JSFSPopUps9ErrorTypeOMf
+_$s10JSFSPopUps9ErrorTypeOMF
+_$s10JSFSPopUps9ErrorTypeOSQAAMcMK
+_$s10JSFSPopUps9ErrorTypeOSHAAMcMK
+/Users/juan_florez/Documents/swift_projects/JSFSPopUps/JSFSPopUps/PopUp/PopUpMessageModel.swift
+$s10JSFSPopUps9ErrorTypeOMa
+$s10JSFSPopUps9ErrorTypeOwui
+$s10JSFSPopUps9ErrorTypeOwup
+$s10JSFSPopUps9ErrorTypeOwug
+$s10JSFSPopUps9ErrorTypeOwst
+$s10JSFSPopUps9ErrorTypeOwet
+__swift_noop_void_return
+__swift_memcpy1_1
+$s10JSFSPopUps17PopUpMessageModelVMa
+$s10JSFSPopUps17PopUpMessageModelVwst
+$s10JSFSPopUps17PopUpMessageModelVwet
+$s10JSFSPopUps17PopUpMessageModelVwta
+__swift_memcpy33_8
+$s10JSFSPopUps17PopUpMessageModelVwca
+$s10JSFSPopUps17PopUpMessageModelVwcp
+$s10JSFSPopUps17PopUpMessageModelVwxx
+$s10JSFSPopUps17PopUpMessageModelVwCP
+_rawHashValue
+hash
+hashValue.get
+$s10JSFSPopUps9ErrorTypeOACSQAAWl
+$s10JSFSPopUps9ErrorTypeOSHAASQWb
+==
+$s10JSFSPopUps9ErrorTypeOACSHAAWl
+getColor
+$sSo7UIImageCMa
+$sSo8NSBundleCMa
+getImage
+errorType.modify
+errorType.set
+errorType.get
+description.modify
+description.set
+description.get
+__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SA_E
+_Swift51Overrides
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51 -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -mlinker-version=609 -stdlib=libc++
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/Overrides.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/swift-macosx-x86_64
+__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE
+__ZN5swift17getRootSuperclassEv
+__ZN5swift4LazyIN12_GLOBAL__N_116ConformanceStateEE19defaultInitCallbackEPv
+__ZN12_GLOBAL__N_124searchInConformanceCacheEPKN5swift14TargetMetadataINS0_9InProcessEEEPKNS0_24TargetProtocolDescriptorIS2_EE
+__ZN12_GLOBAL__N_116ConformanceState12cacheFailureEPKvPKN5swift24TargetProtocolDescriptorINS3_9InProcessEEEm
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvENUlPvE_8__invokeES6_
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvENUlPvE_8__invokeES1_
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvENUlPvE_8__invokeES6_
+__ZL25swift_runtime_unreachablePKc
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvENUlPvE_8__invokeESB_
+__ZN12_GLOBAL__N_122override_equalContextsEPKN5swift23TargetContextDescriptorINS0_9InProcessEEES5_
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_header
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_headerl
+__ZN12_GLOBAL__N_112ConformancesE
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvE7TheLazy
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvE7TheLazy
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvE7TheLazy
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvE7TheLazy
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51 -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -mlinker-version=609 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+addImageCallback
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs
+push_back
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/Concurrent.h
+~scope_exit
+Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/llvm/include/llvm/ADT/ScopeExit.h
+operator()
+deallocateFreeList
+clear_and_shrink_to_fit
+deallocate
+operator unsigned long
+Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/atomic
+/AppleInternal/BuildRoot
+load
+__cxx_atomic_load<unsigned long>
+end
+begin
+store
+__cxx_atomic_store<unsigned long>
+data
+__cxx_atomic_store<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+copy<(anonymous namespace)::ConformanceSection *, (anonymous namespace)::ConformanceSection *>
+Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/algorithm
+__copy<(anonymous namespace)::ConformanceSection, (anonymous namespace)::ConformanceSection>
+allocate
+max<unsigned long>
+max<unsigned long, std::__1::__less<unsigned long, unsigned long> >
+__cxx_atomic_load<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+override_equalContexts
+operator==
+Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/llvm/include/llvm/ADT/StringRef.h
+equals
+compareMemory
+getTypeContextIdentity
+empty
+StringRef
+strLen
+operator[]
+hasImportInfo
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/ABI/MetadataValues.h
+getFlag<2>
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/Basic/FlagSet.h
+get
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/Basic/RelativePointer.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<const char, false, int>, int>
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetContextDescriptor<swift::InProcess>, true, int, swift::TargetContextDescriptor<swift::InProcess> *>, int>
+isUnique
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/ABI/Metadata.h
+__invoke
+swift_runtime_unreachable
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/Runtime/Unreachable.h
+cacheFailure
+updateFailureGeneration
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+__cxx_atomic_store<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+atomic_compare_exchange_strong_explicit<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+compare_exchange_strong
+__cxx_atomic_compare_exchange_strong<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+ConformanceCacheEntry
+atomic
+__atomic_base
+__cxx_atomic_impl
+__cxx_atomic_base_impl
+destroyNode
+compareWithKey
+__cxx_atomic_load<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+ConformanceCacheKey
+searchInConformanceCache
+cacheMiss
+cachedFailure
+_swiftoverride_class_getSuperclass
+getObjCClassMetadata
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/Basic/Lazy.h
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/dispatch/once.h
+dyn_cast<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+Sources/swiftlang/swiftlang-1200.0.29.2/llvm-project/llvm/include/llvm/Support/Casting.h
+isa<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+doit
+classof
+getKind
+getEnumeratedMetadataKind
+getSuperclass
+classHasSuperclass
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/stdlib/toolchain/Compatibility51/../../public/runtime/Private.h
+getClassObject
+cachedSuccess
+getDescription
+__cxx_atomic_load<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+isSuccessful
+findCached
+find<(anonymous namespace)::ConformanceCacheKey>
+getConformanceCacheTypeKey
+getTypeContextDescriptor
+~Snapshot
+decrementReaders
+fetch_sub
+__cxx_atomic_fetch_sub<unsigned long>
+snapshot
+incrementReaders
+fetch_add
+__cxx_atomic_fetch_add<unsigned long>
+getFailureGeneration
+defaultInitCallback
+ConformanceState
+initializeProtocolConformanceLookup
+ConcurrentReadableArray
+MiniVector
+swift51override_conformsToSwiftProtocol
+cacheSuccess
+makeSuccessful
+__cxx_atomic_store<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+getConformingTypeAsMetadata
+getMatchingType
+matches
+getContextDescriptor
+getSwiftProtocol
+isObjC
+getSuperclassConstraint
+getTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+Sources/swiftlang/swiftlang-1200.0.29.2/swift/include/swift/ABI/TrailingObjects.h
+getTrailingObjectsImpl
+hasSuperclassConstraint
+getProtocols
+getTrailingObjects<swift::TargetProtocolDescriptorRef<swift::InProcess> >
+callNumTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+numTrailingObjects
+dyn_cast<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+cast<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+isa<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+ConformanceCandidate
+override_getCanonicalTypeMetadata
+getExistentialTypeMetadata
+getClassConstraint
+getField<0, 1, swift::ProtocolClassConstraint>
+getProtocolContextDescriptorFlags
+getKindSpecificFlags
+forSwift
+dyn_cast<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+operator bool
+getAccessFunction
+isGeneric
+dyn_cast<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+cast<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+getTypeDescriptor
+operator swift::TargetContextDescriptor<swift::InProcess> **
+operator swift::TargetContextDescriptor<swift::InProcess> *
+getDirectObjCClassName
+getIndirectObjCClass
+getTypeKind
+getTypeReferenceKind
+getProtocol
+operator const swift::TargetProtocolDescriptor<swift::InProcess> *
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetProtocolDescriptor<swift::InProcess>, true, int, swift::TargetProtocolDescriptor<swift::InProcess> *>, int>
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<swift::TargetProtocolConformanceDescriptor<swift::InProcess>, false, int>, int>
+Snapshot
+getRootSuperclass

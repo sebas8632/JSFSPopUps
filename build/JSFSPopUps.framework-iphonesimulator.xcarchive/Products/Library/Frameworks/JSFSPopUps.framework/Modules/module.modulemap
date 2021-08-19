@@ -1,0 +1,11 @@
+framework module JSFSPopUps {
+  umbrella header "JSFSPopUps.h"
+
+  export *
+  module * { export * }
+}
+
+module JSFSPopUps.Swift {
+    header "JSFSPopUps-Swift.h"
+    requires objc
+}
